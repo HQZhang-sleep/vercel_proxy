@@ -1,0 +1,23 @@
+{
+  "name": "vercel_proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HQZhang-sleep/vercel_proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HQZhang-sleep/vercel_proxy/issues"
+  },
+  "homepage": "https://github.com/HQZhang-sleep/vercel_proxy#readme",
+  "description": "",
+  "dependencies": {
+    "http-proxy-middleware": "^3.0.5"
+  }
+}
